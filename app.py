@@ -1,7 +1,7 @@
 import streamlit as st
 import plotly.express as px
 
-st.title("Streamlit and Ploty Express")
+st.title("Streamlit and Plotly Express")
 
 data = px.data.gapminder()
 
